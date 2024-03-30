@@ -1,2 +1,2 @@
-# Ithentha-
-"This is a place where I ask questions and learn, like a child saying 'ithentha?' ('What's this?') in Malayalam.
+# Ithentha?
+"Ithentha?" in Malayalam means "What is this?" It's a common phrase used by children to understand and learn things quickly. They learn most things by asking this question. However, sometimes this question can be irritating since children repeatedly ask about the same things again and again. As adults, we tend to stop questioning everything, which makes learning a little difficult. But I have decided to use "ithentha" again and ask my doubts and questions to learn faster. This is my "ithentha" repository where I'll post my questions and the answers I found during my research on the internet. I also welcome anyone to answer my questions, as your contributions will help me learn faster. So please don't get annoyed if I keep asking "ithentha."
